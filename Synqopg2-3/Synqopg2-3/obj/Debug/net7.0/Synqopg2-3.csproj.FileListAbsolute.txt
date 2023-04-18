@@ -1,0 +1,15 @@
+C:\Users\Emile\source\repos\Synqopg2-3\Synqopg2-3\bin\Debug\net7.0\Synqopg2-3.exe
+C:\Users\Emile\source\repos\Synqopg2-3\Synqopg2-3\bin\Debug\net7.0\Synqopg2-3.deps.json
+C:\Users\Emile\source\repos\Synqopg2-3\Synqopg2-3\bin\Debug\net7.0\Synqopg2-3.runtimeconfig.json
+C:\Users\Emile\source\repos\Synqopg2-3\Synqopg2-3\bin\Debug\net7.0\Synqopg2-3.dll
+C:\Users\Emile\source\repos\Synqopg2-3\Synqopg2-3\bin\Debug\net7.0\Synqopg2-3.pdb
+C:\Users\Emile\source\repos\Synqopg2-3\Synqopg2-3\obj\Debug\net7.0\Synqopg2-3.csproj.AssemblyReference.cache
+C:\Users\Emile\source\repos\Synqopg2-3\Synqopg2-3\obj\Debug\net7.0\Synqopg2-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emile\source\repos\Synqopg2-3\Synqopg2-3\obj\Debug\net7.0\Synqopg2-3.AssemblyInfoInputs.cache
+C:\Users\Emile\source\repos\Synqopg2-3\Synqopg2-3\obj\Debug\net7.0\Synqopg2-3.AssemblyInfo.cs
+C:\Users\Emile\source\repos\Synqopg2-3\Synqopg2-3\obj\Debug\net7.0\Synqopg2-3.csproj.CoreCompileInputs.cache
+C:\Users\Emile\source\repos\Synqopg2-3\Synqopg2-3\obj\Debug\net7.0\Synqopg2-3.dll
+C:\Users\Emile\source\repos\Synqopg2-3\Synqopg2-3\obj\Debug\net7.0\refint\Synqopg2-3.dll
+C:\Users\Emile\source\repos\Synqopg2-3\Synqopg2-3\obj\Debug\net7.0\Synqopg2-3.pdb
+C:\Users\Emile\source\repos\Synqopg2-3\Synqopg2-3\obj\Debug\net7.0\Synqopg2-3.genruntimeconfig.cache
+C:\Users\Emile\source\repos\Synqopg2-3\Synqopg2-3\obj\Debug\net7.0\ref\Synqopg2-3.dll

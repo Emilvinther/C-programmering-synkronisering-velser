@@ -1,0 +1,15 @@
+C:\Users\Emile\source\repos\synqqopg1\synqqopg1\obj\Debug\net7.0\synqqopg1.csproj.AssemblyReference.cache
+C:\Users\Emile\source\repos\synqqopg1\synqqopg1\obj\Debug\net7.0\synqqopg1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emile\source\repos\synqqopg1\synqqopg1\obj\Debug\net7.0\synqqopg1.AssemblyInfoInputs.cache
+C:\Users\Emile\source\repos\synqqopg1\synqqopg1\obj\Debug\net7.0\synqqopg1.AssemblyInfo.cs
+C:\Users\Emile\source\repos\synqqopg1\synqqopg1\obj\Debug\net7.0\synqqopg1.csproj.CoreCompileInputs.cache
+C:\Users\Emile\source\repos\synqqopg1\synqqopg1\bin\Debug\net7.0\synqqopg1.exe
+C:\Users\Emile\source\repos\synqqopg1\synqqopg1\bin\Debug\net7.0\synqqopg1.deps.json
+C:\Users\Emile\source\repos\synqqopg1\synqqopg1\bin\Debug\net7.0\synqqopg1.runtimeconfig.json
+C:\Users\Emile\source\repos\synqqopg1\synqqopg1\bin\Debug\net7.0\synqqopg1.dll
+C:\Users\Emile\source\repos\synqqopg1\synqqopg1\bin\Debug\net7.0\synqqopg1.pdb
+C:\Users\Emile\source\repos\synqqopg1\synqqopg1\obj\Debug\net7.0\synqqopg1.dll
+C:\Users\Emile\source\repos\synqqopg1\synqqopg1\obj\Debug\net7.0\refint\synqqopg1.dll
+C:\Users\Emile\source\repos\synqqopg1\synqqopg1\obj\Debug\net7.0\synqqopg1.pdb
+C:\Users\Emile\source\repos\synqqopg1\synqqopg1\obj\Debug\net7.0\synqqopg1.genruntimeconfig.cache
+C:\Users\Emile\source\repos\synqqopg1\synqqopg1\obj\Debug\net7.0\ref\synqqopg1.dll
